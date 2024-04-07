@@ -1,0 +1,27 @@
+{
+  "name": "nn-tools",
+  "version": "1.0.0",
+  "description": "开发工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nannan1989/nn-tools.git"
+  },
+  "keywords": [
+    "tool"
+  ],
+  "author": "nannan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nannan1989/nn-tools/issues"
+  },
+  "homepage": "https://github.com/nannan1989/nn-tools#readme",
+  "dependencies": {
+    "nayin-dapp-gold": "^1.0.0",
+    "nayin-ruby-code": "^1.0.0",
+    "nayin-tool": "^1.0.0"
+  }
+}
