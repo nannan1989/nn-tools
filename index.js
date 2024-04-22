@@ -12,8 +12,8 @@ const h = Number(y_d.format("H"));
 
 // ---------------------------------------------------------------------------------------------------------------  年干
 bazi.yGan = function(){  //年干
-  
-  return sysData.tg[(y+6)%10];
+  // return sysData.tg[(y+6)%10];
+  return sysData.tg[(y+6)%11];
 }
 
 bazi.yZhi = function(){  //年支
